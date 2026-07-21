@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <defs>
+    <linearGradient id="grad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF8A65"/>
+      <stop offset="100%" stop-color="#FFB74D"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="32" fill="url(#grad2)"/>
+  <rect x="50" y="60" width="300" height="180" rx="24" fill="white" opacity="0.95"/>
+  <circle cx="150" cy="125" r="28" fill="#FF8A65" opacity="0.92"/>
+  <circle cx="235" cy="145" r="22" fill="#FFB74D" opacity="0.94"/>
+  <path d="M90 190 C145 225 255 225 310 190" fill="none" stroke="#FF8A65" stroke-width="18" stroke-linecap="round" opacity="0.55"/>
+  <path d="M95 110 Q130 70 170 110" fill="none" stroke="#FFB74D" stroke-width="12" stroke-linecap="round" opacity="0.8"/>
+  <text x="200" y="265" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="24" fill="#212121" font-weight="700">Pizza Margherita</text>
+</svg>
